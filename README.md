@@ -15,8 +15,8 @@ Fiz esse programa em uma atividade proposta em um curso da Proz que estou fazend
 
 ## Funcionalidades
 
-- **Adição:** Realize operações de soma entre dois números.
-- **Subtração:** Faça operações de subtração entre dois números.
-- **Multiplicação:** Realize operações de multiplicação entre dois números.
-- **Divisão:** Efetue operações de divisão entre dois números.
+- **Adição:** Realiza a operações de soma entre dois números.
+- **Subtração:** Faz a operações de subtração entre dois números.
+- **Multiplicação:** Realiza a operações de multiplicação entre dois números.
+- **Divisão:** Efeta a operações de divisão entre dois números.
 
