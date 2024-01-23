@@ -13,9 +13,10 @@ Fiz esse programa em uma atividade proposta em um curso da Proz que estou fazend
 
 2. **Agora é so abrir o terminal e utilizar**
 
-##Funcionalidades
-```bash
-Adição: Realize operações de soma entre dois números.
-Subtração: Faça operações de subtração entre dois números.
-Multiplicação: Realize operações de multiplicação entre dois números.
-Divisão: Efetue operações de divisão entre dois números.
+## Funcionalidades
+
+- **Adição:** Realize operações de soma entre dois números.
+- **Subtração:** Faça operações de subtração entre dois números.
+- **Multiplicação:** Realize operações de multiplicação entre dois números.
+- **Divisão:** Efetue operações de divisão entre dois números.
+
