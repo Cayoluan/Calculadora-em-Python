@@ -14,9 +14,8 @@ Fiz esse programa em uma atividade proposta em um curso da Proz que estou fazend
 2. **Agora é so abrir o terminal e utilizar**
 
 ##Funcionalidades
+```bash
 Adição: Realize operações de soma entre dois números.
 Subtração: Faça operações de subtração entre dois números.
 Multiplicação: Realize operações de multiplicação entre dois números.
 Divisão: Efetue operações de divisão entre dois números.
-
-Agradeço por conferir minha calculadora em Python! Espero que ela seja útil e atenda às suas necessidades. 
